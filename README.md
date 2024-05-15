@@ -19,7 +19,7 @@ Here is an example of how to use the file:
 
 ```bash
 # Download the latest IP ranges file
-wget https://github.com/idhin/daily-update-aws-range-ip/raw/main/aws-range-ip-<latest-date-time>.txt
+wget https://raw.githubusercontent.com/idhin/daily-update-aws-range-ip/main/aws-range-ip.txt
 
 # View the contents
 cat aws-range-ip-<latest-date-time>.txt
